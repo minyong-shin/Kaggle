@@ -1,0 +1,27 @@
+*.txt
+*.csv
+*.xlsx
+Riot_DB
+*.xls
+*.pptx
+203675
+203675_예선
+초기 데이터
+data
+*.zip
+*.png
+*.jpg
+chromedriver
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
+smy_data
+tl_emd_seoul_4326
+*.docx
+일별시간별지하철승하차
+Seoul_Subway_Boarding_data
+*.html
+상가(상권)정보_201912
+
