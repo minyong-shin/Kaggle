@@ -3,7 +3,20 @@
 
 ## Competition
 ### 1. [IEEE Fraud Competition](https://www.kaggle.com/c/ieee-fraud-detection)
+  - classification
   - 35% (2100/6500)
+  
+### 2. [Riiid! Answered correctness Competition](https://www.kaggle.com/c/riiid-test-answer-prediction)
+  - classification
+  - running
+  
+### 3. [Mechanisms of Action (MoA) Prediction](https://www.kaggle.com/c/lish-moa)
+  - multi-label classification
+  - 커널 필사
+  
+### 4. [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification)
+  - image classification
+  - running
   
   
 ## Datasets
